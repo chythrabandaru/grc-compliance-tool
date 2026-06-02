@@ -1,4 +1,5 @@
 # GRC Compliance Automation Tool
+[![CI](https://github.com/chythrabandaru/grc-compliance-tool/actions/workflows/ci.yml/badge.svg)](https://github.com/chythrabandaru/grc-compliance-tool/actions/workflows/ci.yml)
 
 > **ISO 27001 & NIST CSF gap analysis in 6 hours instead of 40 — 85% time reduction · Validated against 2 mock audit scenarios**
 
